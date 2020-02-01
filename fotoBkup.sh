@@ -7,8 +7,8 @@
 
 #!/bin/sh
 
-HOSTS="192.168.1.3"
-MOUNTPOINT='/Network/NAS/foto'
+HOSTS="192.168.0.3"
+MOUNTPOINT='/Volumes/foto'
 LOG='/Users/paolomorgano/scripts/log/fotoBkup.log'
 LOCK_DIR='/Users/paolomorgano/scripts/log/'
 LOCK_NAME='fotoBkup.lock'
